@@ -4,4 +4,4 @@ gulp
 less
 fullpage.js
 
-![gitpage](https://a9fox.github.io/view04) 
+[gitpage](https://a9fox.github.io/view04) 
